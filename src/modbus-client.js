@@ -28,7 +28,7 @@ module.exports = function (RED) {
 
     const unlimitedListeners = 0
     const minCommandDelayMilliseconds = 1
-    const defaultUnitId = 1
+    const defaultUnitId = 0
     const serialConnectionDelayTimeMS = 500
     const timeoutTimeMS = 1000
     const reconnectTimeMS = 2000
